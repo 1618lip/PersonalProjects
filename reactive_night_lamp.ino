@@ -2,6 +2,8 @@
 DIY Reactive Night Lamp
 Created by Philip Pincencia
 3/21/2023
+
+Youtube Video: https://www.youtube.com/watch?v=DLukJRxe6XQ
 */
 
 const int red = 11; // red LED connected to PWM pin 11 
