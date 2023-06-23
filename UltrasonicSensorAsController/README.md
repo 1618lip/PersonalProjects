@@ -1,7 +1,7 @@
 ## Folder Structure
 
 The workspace contains several folders:
-- `src`: Contains `App.java` and `Arduino File.ino`
+- `src`: Contains `App.java` and `SensorArduinoCode.ino`
 - `lib`: Contains the `jSerialComm.jar` library used by `App.java`
 - `bin`: Contains the generated compiled output files
 
