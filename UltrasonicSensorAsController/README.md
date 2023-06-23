@@ -1,18 +1,9 @@
-## Getting Started
-
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
 ## Folder Structure
 
-The workspace contains two folders by default, where:
+The workspace contains several folders:
+- `src`: Contains `App.java` and `Arduino File.ino`
+- `lib`: Contains the `jSerialComm.jar` library used by `App.java`
+- `bin`: Contains the generated compiled output files
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## About the Project:
+I was fascinated by the idea of controlling mundane tasks on the computer without even touching it. 
