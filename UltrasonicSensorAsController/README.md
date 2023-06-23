@@ -26,4 +26,5 @@ I was fascinated by the idea of controlling mundane tasks on the computer withou
   > * **"Volume":** decrease distance(0) &rarr; decrease volume, increase distance(1) &rarr; increase volume
   > * **"Scroll":** decrease distance(0) &rarr; scroll down, increase distance(1) &rarr; scroll up
   > * **"Switch":** decrease distance(0) &rarr; switch to left tab, increase distance(1) &rarr; switch to right tab
+  > > Feel free to change these settings as you wish
 
